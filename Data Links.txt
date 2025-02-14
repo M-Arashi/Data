@@ -1,0 +1,10 @@
+https://www.who.int/data/gho                  # Epidemic Data
+https://academictorrents.com/                 # Medical Data
+https://aws.amazon.com/free/database/         # Energy and Environmental Data
+https://projects.fivethirtyeight.com/polls/   # NBA and Polls Data 
+https://data.worldbank.org/                   # Economic, Social Data
+https://archive.ics.uci.edu/                  # Data for Machine Learning
+https://climate.weather.gc.ca/                # Climate Data
+https://huggingface.co/                       # AI, NLP and Visual Data
+https://datasetsearch.research.google.com/    # Any Data
+
